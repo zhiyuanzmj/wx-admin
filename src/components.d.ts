@@ -37,7 +37,6 @@ declare module '@vue/runtime-core' {
     FilterSelect: typeof import('./components/VFilter/FilterSelect.vue')['default']
     FilterToggle: typeof import('./components/VFilter/FilterToggle.vue')['default']
     Pagination: typeof import('./components/Pagination.vue')['default']
-    README: typeof import('./components/README.md')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     TableSet: typeof import('./components/TableSet.vue')['default']
